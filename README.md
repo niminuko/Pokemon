@@ -3,7 +3,7 @@ The included Jupyter Notebook contains a neural network which trains on and gene
 
 Below is a visualization demonstrating the quality of the generated images (right) versus the original, authentic images (left). 
 
-![](https://scontent-lax3-1.xx.fbcdn.net/v/t1.0-9/118866343_117093613453158_111236074245876504_n.jpg?_nc_cat=100&_nc_sid=8024bb&_nc_ohc=23A2ffxJ97QAX-F3xbG&_nc_oc=AQkA4ZQ3yOXFsUHy3iUOwIeOiRhWfIAr0bJKS1tQzd8CYzWM3htZcKoC9-kkjUkZNcQ&_nc_ht=scontent-lax3-1.xx&oh=c423b0c8c74d7a76ca49d1de50c75af0&oe=5F7E446E)
+![](https://raw.githubusercontent.com/niminuko/Pokemon/master/gan_output.png)
 
 Also included are two helper scripts within either aforementioned directory (`Icons/` and `Artwork/`) which locally download images given the URL. The `Icons/` directory contains URLs taken from the Pokédex `pandas` DataFrame made [here](https://github.com/niminuko/poke-webscraping); `Artwork/` contains URLs taken from the form `https://www.serebii.net/swordshield/pokemon/{poke_id}.png`, where `{poke_id}` is the associated ID for a given Pokémon from the Pokédex `pandas` DataFrame.
 
